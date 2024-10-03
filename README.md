@@ -82,5 +82,12 @@ Screenshots
 ![food-recipe-detailspage](https://github.com/user-attachments/assets/337c57b9-c928-4061-a2f7-75fb9446a1a6)
 ![favorites-recipe](https://github.com/user-attachments/assets/f28716ad-6a63-4100-9db9-d6c2aa2a293d)
 
-
+Learnings
+Gained experience in React.js and state management.
+Learned about integrating Firebase for user authentication and data storage.
+Improved skills in creating responsive and animated user interfaces.
+Future Improvements
+Implement user authentication to allow personalized experiences.
+Expand the recipe database to include more international cuisines.
+Add filtering options based on dietary restrictions (vegan, gluten-free, etc.).
 Feel free to modify the sections as you see fit!
